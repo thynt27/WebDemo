@@ -1,0 +1,37 @@
+
+.col-25
+{
+    width: 25%;
+    display: inline-block;
+    float: left;
+}
+.mb-36{
+    margin-bottom: 36px;
+}
+.San-pham{transition: linear .5s;}
+.San-pham:hover
+{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.San-pham .Ten
+{
+    font-size: medium;
+    font-variant: small-caps;
+    color:blue;
+    text-align: center;
+}
+.San-pham .img
+{
+    max-width: 95%;
+
+}
+.San-pham .Gia
+{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+
+

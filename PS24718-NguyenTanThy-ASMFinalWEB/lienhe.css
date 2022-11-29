@@ -1,0 +1,31 @@
+body{
+  background-color: gray;
+}
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 500px;
+    margin: 290px;
+    background: rgb(3,3,3);
+    background: linear-gradient(148deg, rgba(3,3,3,1) 0%, rgba(0,0,0,1) 46%, rgba(250,78,171,1) 94%);
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+    left: 150px;
+    
+    
+}
+.cap>h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+.map{
+  border: 1px;
+  border-collapse: collapse;
+  position: relative;
+  bottom: 10px;
+  left: 350px;
+}
